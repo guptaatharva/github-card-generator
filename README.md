@@ -51,7 +51,7 @@ npm run dev
 ---
 
 ## 🎬 **Preview**  
-[GitHub Card Generator]([https://your-live-demo-link.com](https://guptaatharva.github.io/github-card-generator/))
+Check out a live demo here: [GitHub Card Generator](https://guptaatharva.github.io/github-card-generator/)  
 
 ---
 
